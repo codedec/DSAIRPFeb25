@@ -1,0 +1,66 @@
+Python programming
+
+DATA TYPES
+
+Lists
+  index
+Tuple( tuples are immutable)
+Range
+To comment many lines ->select the lines, ctrl + forward slash(/)
+
+Mapping type
+ 1.Dictionary - ordered,mutable collection that stores data in key-value pairs. Each key is unique
+   #accessing the keys only from a dictionary
+    data.keys()
+   #accessing the values only from a dictionary
+    data.values()
+
+Sets
+unordered,no duplicate values
+
+Boolean
+ true or false
+
+None Type
+
+Reversing a string
+ print(language[::-1])
+
+OPERATORS
+
+
+Logical operators
+#AND
+#OR
+#NOT
+
+Membership Operators
+IN
+NOT IN
+
+Python class
+  Polymorphism
+
+  Encapsulation
+
+  Inheritance
+    child class
+      super()
+
+ Abstract class,abstract method,concrete method
+
+OS module
+ listdir -> file names in the directory
+
+  from os import listdir
+  from os import path
+
+   file_names = listdir(path())
+   print(file_names)
+  
+
+
+
+ 
+
+
