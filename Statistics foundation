@@ -4,3 +4,64 @@ probability
 
 Descriptive statistics and inferentional statistics
 
+Descriptive statistics
+
+Measures of central tendency
+
+Mean:
+
+Mode: Value that appears most frequently in a data set. The mode is the highest bar in a bar chart.
+
+Median: 
+ 
+Percentile: Percentage of values lesser than a threshold
+
+Quartiles: Q1,Q2,Q3
+Q2-central quartile(median),50th percentile
+Q1-lower quartile The 25th percentile (bottom 25% of data).
+Q3-Upper quartile The 75th percentile (top 75% of data)
+
+Interquartile range(Q3-Q1)(IQR) : a measure of statistical dispersion, showing the spread of the middle 50% of a dataset. It helps identify outliers and understand variability.
+
+Finding outliers using Quartiles
+Lower bound(Q1 - 1.5*IQR)
+Upper bound(Q3 +  1.5*IQR)
+Outliers: values lower than LB or higher than HB
+
+Measures of dispersion
+- Range
+
+-Variance (spread)
+
+-Standard deviation
+
+-Confidence Interval(CI)
+
+Correlation coefficient(-1 to 1)
+-Pearson correlation coefficient
+-Sphearman's rank correlation
+
+Scatter plot -> plotted Based on correlations
+
+Histograms- Frequency/relative frequency
+
+Box plot
+-shows median(Q2),Q1,Q3, lower bound, upper bound, outliers
+
+Normalization
+ Z score(used for standardization)
+
+Central Tendency in statistics
+
+ Skewness
+
+Negatively skewed
+Normal
+Positively skewed
+
+Kurtosis
+
+
+
+
+
