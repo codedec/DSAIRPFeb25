@@ -40,7 +40,7 @@ plt.show()
 ```python
 from sklearn.cluster import AgglomerativeClustering
 agg_hc = AgglomerativeClustering(n_clusters = 5,
-                             affinity = 'euclidean',
+                             metric = 'euclidean',
                              linkage = 'ward')
 
 y_hc = agg_hc.fit_predict(X)
