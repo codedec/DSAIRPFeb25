@@ -25,6 +25,7 @@ jupyter notebook
 4. Auto code correction
 
 # Python Data Types
+[![Python Data Types](https://img.youtube.com/vi/ppsCxnNm-JI/0.jpg)](https://www.youtube.com/watch?v=ppsCxnNm-JI)
 ## Numeric Type
 ### Integer
 ### Float
