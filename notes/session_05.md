@@ -14,6 +14,9 @@
 ### 2024 Nobel Prize in Physics
 ### Deepseek
 ## Key Deciding Factors of Growth of AI
+### Data
+### Computation
+### Algorithmic Improvements
 ## Data Science, Machine Learning and Artificial Intelligence
 ## Data Science Application Domains
 ## Correlation Vs. Causation
