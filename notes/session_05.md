@@ -17,5 +17,7 @@
 ## Data Science, Machine Learning and Artificial Intelligence
 ## Data Science Application Domains
 ## Correlation Vs. Causation
+[![correlation_causation](https://img.youtube.com/vi/-bkIKZk2a8w/0.jpg)](https://www.youtube.com/shorts/-bkIKZk2a8w)
+
 ## Ethics in AI
 
