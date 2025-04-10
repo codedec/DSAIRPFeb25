@@ -3,7 +3,6 @@
 [![AI](https://img.youtube.com/vi/J_y1dwJvF-Y/0.jpg)](https://www.youtube.com/shorts/J_y1dwJvF-Y)
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
-## About Geoffrey Hinton
 [![Geoffrey Hinton](https://img.youtube.com/vi/l9RWTMNnvi4/0.jpg)](https://youtu.be/l9RWTMNnvi4)
 ### Perceptron
 ### Backpropagation
