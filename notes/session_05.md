@@ -2,6 +2,12 @@
 ## Artificial Intelligence
 ## Artificial General Intelligence
 ## History of Artificial Intelligence
+
+## About Geoffrey Hinton
+[![Geoffrey Hinton](https://img.youtube.com/vi/l9RWTMNnvi4/0.jpg)](https://youtu.be/l9RWTMNnvi4)
+
+
+
 ### Perceptron
 ### Backpropagation
 ### AI Winter
