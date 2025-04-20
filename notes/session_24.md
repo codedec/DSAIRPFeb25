@@ -11,10 +11,15 @@
 ## Types of Plots
 - Bargraph
     - Sorting
-- Adding Titles
-- Changing colors
-- Selecting fonts and adjusting font size
-- Calculated Field
+- Line Chart
+- Pie Chart
+- Box plot
+- Customizing Plots
+    - Adding Titles
+    - Changing colors
+    - Selecting fonts and adjusting font size
+    - Calculated Field
+
 
 ## Creating Dashboard
 - Dashboard button
