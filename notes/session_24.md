@@ -5,6 +5,8 @@
     - The Visual Display of Quantitative Information
 - Alberto Cairo 
 
+## Installation
+- Install Tableau Desktop Free Trail Version
 ## Loading Data
 - Loading CSV Files
 - Data -> Add new Data Source
