@@ -1,4 +1,9 @@
 # Descriptive Statistics
+
+[![Intro to Descriptive Statistics](https://img.youtube.com/vi/8Q4oSDfhso8/0.jpg)](https://www.youtube.com/watch?v=8Q4oSDfhso8)
+
+
+
 ## Measures of central tendency
  - Mean
  - Median
