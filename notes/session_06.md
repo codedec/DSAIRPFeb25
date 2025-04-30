@@ -27,6 +27,10 @@ jupyter notebook
 # Python Data Types
 [![Python Data Types](https://img.youtube.com/vi/ppsCxnNm-JI/0.jpg)](https://www.youtube.com/watch?v=ppsCxnNm-JI)
 ## Numeric Type
+
+[![Python Numeric Data Types](https://img.youtube.com/vi/IMrXLi2laS4/0.jpg)](https://youtu.be/IMrXLi2laS4?list=PLlTKxD_ZY6pS0RZCh99RNwy1_l-IwIce0)
+
+
 ### Integer
 ### Float
 ### Complex
