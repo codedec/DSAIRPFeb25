@@ -1,5 +1,7 @@
 # Object Oriented Programming (OOP)
 
+[![Python Numeric Data Types](https://img.youtube.com/vi/dw0A_xw0glA/0.jpg)](https://www.youtube.com/watch?v=dw0A_xw0glA&t=419s)
+
 ## Class
 ### Basic Class Definition
 ### Class Attibutes
