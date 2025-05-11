@@ -37,14 +37,24 @@ jupyter notebook
 
 ## Text Type
 ### String
+[![Python String](https://img.youtube.com/vi/MTgNjXlO9po/0.jpg)](https://youtu.be/MTgNjXlO9po)
 
 ## Sequence Type
 ### List
+[![Python List](https://img.youtube.com/vi/GI-PeOJDAps/0.jpg)](https://youtu.be/GI-PeOJDAps)
+
 ### Tuple
+[![Python Tuple](https://img.youtube.com/vi/0U4h0hDkH7k/0.jpg)](https://youtu.be/0U4h0hDkH7k)
+
+
 ### Range
+[![Python Range](https://img.youtube.com/vi/i9mJngeSCHw/0.jpg)](https://youtu.be/i9mJngeSCHw)
+
 
 ## Mapping Type
 ### Dictionary
+[![Python Dictionary](https://img.youtube.com/vi/ZtqoZ34W8lA/0.jpg)](https://youtu.be/ZtqoZ34W8lA)
+
 
 ## Set Type
 
