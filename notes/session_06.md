@@ -3,6 +3,19 @@
 # Walkthroughs
 1. [Google Colab](https://colab.research.google.com/)
 
+ - Basic file operations
+ - Jupyter Notebook format
+    - Code
+    - Comments
+    - Sections/Headings
+    - Notes
+    - Images
+    - URLs
+    - Equations
+ - Auto Save
+ - GPU Access
+ - AI suggestions
+
 # Installations
 
 1. [Python download link](https://www.python.org/downloads/)
