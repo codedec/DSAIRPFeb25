@@ -16,6 +16,12 @@
  - GPU Access
  - AI suggestions
 
+## Google Colab Tutorial 1
+ [![Google Colab Tutorial 1](https://img.youtube.com/vi/cswmnpVymHQ/0.jpg)](https://www.youtube.com/watch?v=cswmnpVymHQ)
+
+ ## Google Colab Tutorial 2
+ [![Google Colab Tutorial 2](https://img.youtube.com/vi/bh820H9MD3k/0.jpg)](https://www.youtube.com/watch?v=bh820H9MD3k)
+
 # Installations
 
 1. [Python download link](https://www.python.org/downloads/)
@@ -26,6 +32,23 @@
     - Andromeda (Eliver Lara)
     - Black Formatter (Microsoft)
     - Flake8 (Microsoft)
+
+## Visual Studio Walkthrough
+[![VS Code Walkthrough](https://img.youtube.com/vi/ZCn9dgRLQ_8/0.jpg)](https://www.youtube.com/watch?v=ZCn9dgRLQ_8)
+
+
+## Visual Studio Extensions Part 1
+[![VS Extensions 1](https://img.youtube.com/vi/sqJhKbsZqtA/0.jpg)](https://www.youtube.com/watch?v=sqJhKbsZqtA)
+
+
+## Visual Studio Extensions Part 2
+[![VS Extensions 2](https://img.youtube.com/vi/1XgCiD5QHQU/0.jpg)](https://www.youtube.com/watch?v=1XgCiD5QHQU)
+
+
+## Visual Studio Extensions Part 3
+[![VS Extensions 3](https://img.youtube.com/vi/rxhtjmuM6E0/0.jpg)](https://www.youtube.com/watch?v=rxhtjmuM6E0)
+
+
 
 ## Checklist
 1. Git bash terminal access in VS Code
