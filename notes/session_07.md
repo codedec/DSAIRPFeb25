@@ -1,3 +1,79 @@
+# Python Data Types
+[![Python Data Types](https://img.youtube.com/vi/ppsCxnNm-JI/0.jpg)](https://www.youtube.com/watch?v=ppsCxnNm-JI)
+
+## Numeric Type
+[![Python Numeric Data Types](https://img.youtube.com/vi/IMrXLi2laS4/0.jpg)](https://youtu.be/IMrXLi2laS4?list=PLlTKxD_ZY6pS0RZCh99RNwy1_l-IwIce0)
+
+
+### Integer
+### Float
+### Complex
+
+## Text Type
+### String
+[![Python String](https://img.youtube.com/vi/MTgNjXlO9po/0.jpg)](https://youtu.be/MTgNjXlO9po)
+
+## Sequence Type
+### List
+[![Python List](https://img.youtube.com/vi/GI-PeOJDAps/0.jpg)](https://youtu.be/GI-PeOJDAps)
+
+### Tuple
+[![Python Tuple](https://img.youtube.com/vi/0U4h0hDkH7k/0.jpg)](https://youtu.be/0U4h0hDkH7k)
+
+
+### Range
+[![Python Range](https://img.youtube.com/vi/i9mJngeSCHw/0.jpg)](https://youtu.be/i9mJngeSCHw)
+
+
+## Mapping Type
+### Dictionary
+[![Python Dictionary](https://img.youtube.com/vi/ZtqoZ34W8lA/0.jpg)](https://youtu.be/ZtqoZ34W8lA)
+
+
+## Set Type
+
+## Boolean
+
+## None Type
+
+# Operators in Python
+
+## Arithmetic Operators
+### Addition
+### Subtraction
+### Multiplication
+### Division
+### Modulous
+### Exponent
+### Floor Division
+
+## Assignment Operator
+
+## Comparison Operator
+- \>
+- <
+- \>=
+- <=
+- ==
+- !=
+
+## Logical Operators
+
+### AND
+### OR
+### NOT
+
+
+## Membership Operator
+### IN
+### NOT IN
+
+## Identity Operator
+### is
+### is not
+
+
+
 # Control Flow
 ## IF
 This checks a condition, and if it's true, the indented code block under it will be executed.
