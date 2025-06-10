@@ -1,5 +1,4 @@
 # Python Data Types
-[![Python Data Types](https://img.youtube.com/vi/ppsCxnNm-JI/0.jpg)](https://www.youtube.com/watch?v=ppsCxnNm-JI)
 
 ## Numeric Type
 [![Python Numeric Data Types](https://img.youtube.com/vi/IMrXLi2laS4/0.jpg)](https://youtu.be/IMrXLi2laS4?list=PLlTKxD_ZY6pS0RZCh99RNwy1_l-IwIce0)
@@ -32,22 +31,35 @@
 
 ## Set Type
 
+[![Python Set](https://img.youtube.com/vi/RDGxJFbDcag/0.jpg)](https://youtu.be/RDGxJFbDcag)
+
+
 ## Boolean
 
+[![Python Boolean](https://img.youtube.com/vi/94huU3v5TAU/0.jpg)](https://youtu.be/94huU3v5TAU)
+
+
 ## None Type
+[![Python None](https://img.youtube.com/vi/AR5nH9qF2sM/0.jpg)](https://youtu.be/AR5nH9qF2sM)
+
 
 # Operators in Python
 
 ## Arithmetic Operators
-### Addition
-### Subtraction
-### Multiplication
-### Division
-### Modulous
-### Exponent
-### Floor Division
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulous
+- Exponent
+- Floor Division
+
+[![Python Operators 1](https://img.youtube.com/vi/5Rzy8ikgsts/0.jpg)](https://youtu.be/5Rzy8ikgsts)
 
 ## Assignment Operator
+- =
+
+[![Python Operators 2](https://img.youtube.com/vi/5I0FYZVyYeU/0.jpg)](https://youtu.be/5I0FYZVyYeU)
 
 ## Comparison Operator
 - \>
@@ -58,20 +70,17 @@
 - !=
 
 ## Logical Operators
-
-### AND
-### OR
-### NOT
-
+- AND
+- OR
+- NOT
 
 ## Membership Operator
-### IN
-### NOT IN
+- IN
+- NOT IN
 
 ## Identity Operator
-### is
-### is not
-
+- is
+- is not
 
 
 # Control Flow
@@ -82,6 +91,9 @@ if True:
     print("Inside if block")
 ```
 
+[![Python IF](https://img.youtube.com/vi/nY4XQDsZzFY/0.jpg)](https://youtu.be/nY4XQDsZzFY)
+
+
 ## IF-ELSE
 ```python
 if True:
@@ -89,6 +101,9 @@ if True:
 else:
     print("Inside Else block")
 ```
+
+[![Python IF-ELSE](https://img.youtube.com/vi/lE3IGtyXjLg/0.jpg)](https://youtu.be/lE3IGtyXjLg)
+
 
 ```python
 a=10
@@ -98,6 +113,8 @@ if a>b:
 else:
     print("a is not greater than b")
 ```
+
+
 ## IF-ELIF
 ```python
 x = 10
@@ -128,6 +145,10 @@ elif condition:
 else:
     pass
 ```
+
+[![Python IF-ELIF-ELSE](https://img.youtube.com/vi/YDBZ0rban3M/0.jpg)](https://youtu.be/YDBZ0rban3M)
+
+
 ## Nested IFs
 You can also nest conditional statements for more complex checks
 ```python
@@ -141,7 +162,6 @@ if x > 10:
 ```
 
 # Loops
-
 ## For Loop
 For loops can be applied on any sequential object (list, string, tuple, range, etc.)
 ```python
@@ -154,6 +174,9 @@ for i in range(10):
     print(i)
 ```
 
+[![Python For Loop](https://img.youtube.com/vi/oywGQ0wVJQs/0.jpg)](https://youtu.be/oywGQ0wVJQs)
+
+
 ## While Loop
 ```python
 i = 1
@@ -161,8 +184,13 @@ while i<=10:
   print(i)
   i = i+1
 ```
+
+[![Python For While Loop](https://img.youtube.com/vi/6mKpZdIfnew/0.jpg)](https://youtu.be/6mKpZdIfnew)
+
+
 ### Continue
 ### Break
+[![Python Continue-break](https://img.youtube.com/vi/Vv8YQqvg4KQ/0.jpg)](https://youtu.be/Vv8YQqvg4KQ)
 
 
 # Basic Library Usage
@@ -171,5 +199,11 @@ while i<=10:
 # Print formatting
 ## Placeholder passing
 
+[![Python Print Formatting](https://img.youtube.com/vi/LoBQw86XT5Y/0.jpg)](https://youtu.be/LoBQw86XT5Y)
+
+
 ## Multiline Assignment
+[![Python Print Formatting](https://img.youtube.com/vi/qwwPc2bxkx8/0.jpg)](https://youtu.be/qwwPc2bxkx8)
+
+
 ## Line-breaking
