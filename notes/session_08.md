@@ -37,3 +37,11 @@ def simple_arithmetic(a,b):
 tsum, tdiff, tmul, tdiv = simple_arithmetic(10,5)
 print(tsum, tdiff, tmul, tdiv)
 ```
+
+# Basic Library Usage
+## Keyword library
+
+# Creating and Using Custom Modules
+
+# File Handling
+## OS Library usage

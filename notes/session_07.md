@@ -82,6 +82,22 @@
 - is
 - is not
 
+# Standard Input Output Functions
+```python
+name = input("Enter your name: ")
+print(name)
+```
+
+# Print formatting
+## Placeholder passing
+[![Python Print Formatting](https://img.youtube.com/vi/LoBQw86XT5Y/0.jpg)](https://youtu.be/LoBQw86XT5Y)
+
+## Multiline Assignment
+[![Python Print Formatting](https://img.youtube.com/vi/qwwPc2bxkx8/0.jpg)](https://youtu.be/qwwPc2bxkx8)
+
+## Line-breaking
+
+# Type Conversion and Casting
 
 # Control Flow
 ## IF
@@ -93,6 +109,8 @@ if True:
 
 [![Python IF](https://img.youtube.com/vi/nY4XQDsZzFY/0.jpg)](https://youtu.be/nY4XQDsZzFY)
 
+
+# Indentation and Comments
 
 ## IF-ELSE
 ```python
@@ -161,6 +179,8 @@ if x > 10:
         print("x is not greater than 20")
 ```
 
+# Indexing and Slicing Operation
+
 # Loops
 ## For Loop
 For loops can be applied on any sequential object (list, string, tuple, range, etc.)
@@ -192,18 +212,5 @@ while i<=10:
 ### Break
 [![Python Continue-break](https://img.youtube.com/vi/Vv8YQqvg4KQ/0.jpg)](https://youtu.be/Vv8YQqvg4KQ)
 
+### Pass
 
-# Basic Library Usage
-## Keyword library
-
-# Print formatting
-## Placeholder passing
-
-[![Python Print Formatting](https://img.youtube.com/vi/LoBQw86XT5Y/0.jpg)](https://youtu.be/LoBQw86XT5Y)
-
-
-## Multiline Assignment
-[![Python Print Formatting](https://img.youtube.com/vi/qwwPc2bxkx8/0.jpg)](https://youtu.be/qwwPc2bxkx8)
-
-
-## Line-breaking
