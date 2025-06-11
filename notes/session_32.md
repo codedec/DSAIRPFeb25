@@ -1,3 +1,1 @@
- # SVM
- # Decision Tree
- # Random Forest
+# Data Ingenstion Techniques

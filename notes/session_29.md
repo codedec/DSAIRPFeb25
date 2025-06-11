@@ -1,1 +1,1 @@
-# Preprocessing - Case study
+# SQL Case Study

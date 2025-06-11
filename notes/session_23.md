@@ -1,10 +1,7 @@
-# Feature Engineering and Visualization
-## Matplotlib
-### Line Plot
-### Bar Chart
-### Pie Chart
-### Histogram
-### Scatter Plot
-### Heatmap
-### Box-plot
-## Seaborn
+# Numpy and Pandas
+
+## Importing Numpy and Pandas
+```python
+import numpy as np
+import pandas as pd
+```

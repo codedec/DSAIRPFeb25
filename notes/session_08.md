@@ -1,47 +1,100 @@
-# Functions in Python
+# Python Data Types
 
-## Built-in Functins
+## Numeric Type
+[![Python Numeric Data Types](https://img.youtube.com/vi/IMrXLi2laS4/0.jpg)](https://youtu.be/IMrXLi2laS4?list=PLlTKxD_ZY6pS0RZCh99RNwy1_l-IwIce0)
 
-## Custom Functions
+
+### Integer
+### Float
+### Complex
+
+## Text Type
+### String
+[![Python String](https://img.youtube.com/vi/MTgNjXlO9po/0.jpg)](https://youtu.be/MTgNjXlO9po)
+
+## Sequence Type
+### List
+[![Python List](https://img.youtube.com/vi/GI-PeOJDAps/0.jpg)](https://youtu.be/GI-PeOJDAps)
+
+### Tuple
+[![Python Tuple](https://img.youtube.com/vi/0U4h0hDkH7k/0.jpg)](https://youtu.be/0U4h0hDkH7k)
+
+
+### Range
+[![Python Range](https://img.youtube.com/vi/i9mJngeSCHw/0.jpg)](https://youtu.be/i9mJngeSCHw)
+
+
+## Mapping Type
+### Dictionary
+[![Python Dictionary](https://img.youtube.com/vi/ZtqoZ34W8lA/0.jpg)](https://youtu.be/ZtqoZ34W8lA)
+
+
+## Set Type
+
+[![Python Set](https://img.youtube.com/vi/RDGxJFbDcag/0.jpg)](https://youtu.be/RDGxJFbDcag)
+
+
+## Boolean
+
+[![Python Boolean](https://img.youtube.com/vi/94huU3v5TAU/0.jpg)](https://youtu.be/94huU3v5TAU)
+
+
+## None Type
+[![Python None](https://img.youtube.com/vi/AR5nH9qF2sM/0.jpg)](https://youtu.be/AR5nH9qF2sM)
+
+
+# Operators in Python
+
+## Arithmetic Operators
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Modulous
+- Exponent
+- Floor Division
+
+[![Python Operators 1](https://img.youtube.com/vi/5Rzy8ikgsts/0.jpg)](https://youtu.be/5Rzy8ikgsts)
+
+## Assignment Operator
+- =
+
+[![Python Operators 2](https://img.youtube.com/vi/5I0FYZVyYeU/0.jpg)](https://youtu.be/5I0FYZVyYeU)
+
+## Comparison Operator
+- \>
+- <
+- \>=
+- <=
+- ==
+- !=
+
+## Logical Operators
+- AND
+- OR
+- NOT
+
+## Membership Operator
+- IN
+- NOT IN
+
+## Identity Operator
+- is
+- is not
+
+# Standard Input Output Functions
 ```python
-def greet():
-  return "Good morning"
-greet()
+name = input("Enter your name: ")
+print(name)
 ```
 
-```python
-def add(a,b):
-  c = a+b
-  return c
-z = add(2,4)
-print(z)
-```
-### Function arguments
-### Default arguments
-```python
-def add(a,b=10):
-  c = a+b
-  return c
+# Print formatting
+## Placeholder passing
+[![Python Print Formatting](https://img.youtube.com/vi/LoBQw86XT5Y/0.jpg)](https://youtu.be/LoBQw86XT5Y)
 
-z = add(2)
-print(z)
-```
-### kwargs
+## Multiline Assignment
+[![Python Print Formatting](https://img.youtube.com/vi/qwwPc2bxkx8/0.jpg)](https://youtu.be/qwwPc2bxkx8)
 
-### Function return values
+## Line-breaking
 
-```python
-def simple_arithmetic(a,b):
-  return a+b, a-b, a*b, a/b
-
-tsum, tdiff, tmul, tdiv = simple_arithmetic(10,5)
-print(tsum, tdiff, tmul, tdiv)
-```
-
-# Basic Library Usage
-## Keyword library
-
-# Creating and Using Custom Modules
-
-# File Handling
-## OS Library usage
+# Type Conversion and Casting

@@ -1,124 +1,141 @@
-# Inferential Statistics
+# Object Oriented Programming (OOP)
 
-## Why do we need Inferential Statistics? 
-- Correlation Vs. Causation
-- Controlled Experiment
-    - Examples 
-        - A/B Testing
-        - Medical Trials
+[![Python OOPs Intro](https://img.youtube.com/vi/dw0A_xw0glA/0.jpg)](https://www.youtube.com/watch?v=dw0A_xw0glA&t=419s)
 
-## Population
-## Sample
-### Why do we need sampling ?
-#### Sampling bias
-#### Types of sampling
-### Sampling Distribution
-- Probability distribution
-- Area under the curve
-- Gaussian distribution and Normal distribution
-- Sampling Distribution of the Mean
-- Central Limit Theorem (CLT)
-    - [Online stats visualization](https://onlinestatbook.com/stat_sim/sampling_dist/)
-    - If you take many samples from a population and calculate their averages, those averages will form a bell-shaped curve (normal distribution), even if the original data isn’t bell-shaped. This is useful because it lets us make predictions about the population.
-
-## Hypothesis Testing
-### Null Hypothesis
-### Alternate Hypothesis
-### Significance Level (α)
-- Typically used values are 0.05 (e.g. e-commerce  ) and 0.01 (e.g in fileds like medicine)
-### P-value
-
-# Major Statistical Tests
-## Z-test
-A Z-test is used to compare means when the sample size is large $n>30$ and the population variance is known. It follows the standard normal distribution ($Z$-distribution).
-The steps to do this as follows
-1. State the Null Hypothesis
-2. State the Alternate Hypothesis
-3. Choose Your Significance level ($\alpha$)
-4. Calculate Your Z-test Statistic
-
-$Z=\dfrac{\bar{x}-\mu}{\left(\frac{\sigma}{\sqrt{n}}\right)} \nonumber$
-
-- $\bar{x}$ = sample mean
-- $\mu$ = population mean
-- $\sigma$ = population standard deviation
-- $n$ = sample size
-
-5. Find p-value using [Z-Table](https://math.arizona.edu/~rsims/ma464/standardnormaltable.pdf) and Z-test statistic computed
-6. if p-value < $\alpha$, then we fail to reject null Hypothesis
-7. There are one-tailed and two-tailed tests
-
-## Z-test Practice Problem
-A particular companies chocolate bars are supposed to have an average weight of 50 grams according to the maufacturer.
-We want to test if a sample of chocolate bars deviates significantly from this weight.
-Data: 50.8, 49.5, 50.2, 51, 49.7, 50.3, 49.8, 50.5, 49.6, 50.1
-Population standard deviation: 1.5 grams (assumed based on production tolerance)
-
-## T-test
-- We need T-test because population standard deviation $\sigma$ is not always available
-- Here we will be computing T-test statistic (based on the problem statement and type of t-test)
+## Class
+### Basic Class Definition
+### Class Attibutes
+### Class Functions
 
 
-| **Type of T-test**        | **Null Hypothesis**                                        | **Alternate Hypothesis**                                       | **Degrees of Freedom** |
-|---------------------------|------------------------------------------------------------|----------------------------------------------------------------|------------------------|
-| One Sample t-test         | The sample mean is equal to the reference value            | The sample mean is not equal to the reference value            | $df = n-1$             |
-| Independent Sample t-test | The mean values in both groups are the same                | The mean values in both groups are not equal                   | $df = n_1+n_2-2$       |
-| Paired Samples t-test     | The mean value of the difference between the pairs is zero | The mean value of the difference between the pairs is not zero | $df = n-1$             |
+## Object
+### Creating objects of a particular class
 
-### One Sample T-test
-Compares the sample mean to a known population mean
+### Inheritance
 
-The steps are as follows
 
-1. State the Null Hypothesis
-2. State the Alternate Hypothesis
-3. Choose Your Significance level ($\alpha$)
-4. Calculate Your T-test Statistic
+# Python Practice Problems
 
-$t=\dfrac{\bar{x}-\mu}{\left(\frac{s}{\sqrt{n}}\right)} \nonumber$
+1. Data Types and Operators
+- Write a program to add two integers.
+- Write a program to subtract two floats.
+- Write a program to multiply two numbers.
+- Write a program to divide two numbers and handle division by zero.
+- Write a program to find the remainder of two numbers using the modulus operator.
+- Write a program to swap two variables without using a third variable.
+- Write a program to check if a number is even or odd.
+- Write a program to find the square of a number.
+- Write a program to find the cube of a number.
+- Write a program to convert Celsius to Fahrenheit.
 
-- $\bar{x}$ = sample mean
-- $\mu$ = population mean
-- $s$ = sample standard deviation
+2. String Handling
+- Write a program to concatenate two strings.
+- Write a program to find the length of a string.
+- Write a program to reverse a string.
+- Write a program to check if a string is a palindrome.
+- Write a program to count the number of vowels in a string.
+- Write a program to convert a string to uppercase.
+- Write a program to convert a string to lowercase.
+- Write a program to replace a substring in a string.
+- Write a program to check if a string starts with a specific prefix.
+- Write a program to check if a string ends with a specific suffix.
 
-$s = \sqrt{\frac{1}{n-1} \sum_{i=1}^N (x_i - \overline{x})^2}$
-- $n$ = sample size
-5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
-6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
+3. Conditional Statements
+- Write a program to find the largest of three numbers.
+- Write a program to check if a number is positive, negative, or zero.
+- Write a program to check if a year is a leap year.
+- Write a program to check if a number is divisible by both 3 and 5.
+- Write a program to check if a character is a vowel or consonant.
+- Write a program to check if a number is within a given range.
+- Write a program to compare two strings and print the larger one.
+- Write a program to calculate the grade based on a student's score.
+- Write a program to check if a number is a prime number.
 
-### Independent Sample T-test
+4. Loops
+- Write a program to print numbers from 1 to 10 using a for loop.
+- Write a program to print numbers from 10 to 1 using a while loop.
+- Write a program to print the multiplication table of a number.
+- Write a program to find the sum of all numbers from 1 to 100.
+- Write a program to find the factorial of a number.
+- Write a program to print all even numbers between 1 and 50.
+- Write a program to print the Fibonacci series up to n terms.
+- Write a program to check if a number is an Armstrong number.
+- Write a program to print the following pattern:
+*
+**
+***
+****
+*****
 
-Compares means of two independent groups
+- Write a program to find the sum of digits of a number.
 
-The steps are as follows
+5. Functions
+- Write a function to add two numbers.
+- Write a function to find the maximum of two numbers.
+- Write a function to check if a number is prime.
+- Write a function to reverse a string.
+- Write a function to calculate the factorial of a number.
+- Write a function to check if a string is a palindrome.
+- Write a function to find the area of a circle.
+- Write a function to find the GCD of two numbers.
+- Write a function to find the LCM of two numbers.
+- Write a function to print the first n terms of the Fibonacci series.
 
-1. State the Null Hypothesis
-2. State the Alternate Hypothesis
-3. Choose Your Significance level ($\alpha$)
-4. Calculate Your T-test Statistic
+6. Lists
+- Write a program to find the sum of all elements in a list.
+- Write a program to find the largest element in a list.
+- Write a program to find the smallest element in a list.
+- Write a program to reverse a list.
+- Write a program to count the occurrences of an element in a list.
+- Write a program to remove duplicates from a list.
+- Write a program to check if a list is sorted.
+- Write a program to merge two lists.
+- Write a program to find the second largest element in a list.
+- Write a program to sort a list in ascending order.
 
-- $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{\sqrt{(\dfrac{s_{1}^2}{n_{1}}+\dfrac{s_{2}^2}{{n_{2}}}})}$; for one tailed
-- $t = \dfrac{\overline{x_{1}}-\overline{x_{2}}}{S_p\sqrt{(\dfrac{1}{n_{1}}+\dfrac{1}{{n_{2}}}})}$; for two tailed
-  - $S_p = \frac{(n_1-1){s_1}^2+(n_2-1){s_2}^2}{n_1+n_2-2}$; known as pooled standard deviation
+7. Tuples
+- Write a program to create a tuple and print its elements.
+- Write a program to find the length of a tuple.
+- Write a program to concatenate two tuples.
+- Write a program to check if an element exists in a tuple.
+- Write a program to find the index of an element in a tuple.
+- Write a program to count the occurrences of an element in a tuple.
+- Write a program to convert a tuple to a list.
+- Write a program to reverse a tuple.
+- Write a program to find the maximum element in a tuple.
+- Write a program to find the minimum element in a tuple.
 
-- $\bar{x_1}$ = sample mean of group 1
-- $\bar{x_2}$ = sample mean of group 2
-- $s_1$ = sample standard deviation of group 1
-- $s_2$ = sample standard deviation of group 2
-- $n_1$ = sample size of group 1
-- $n_2$ = sample size of group 2
+8. Dictionaries
+- Write a program to create a dictionary and print its keys and values.
+- Write a program to add a new key-value pair to a dictionary.
+- Write a program to remove a key from a dictionary.
+- Write a program to check if a key exists in a dictionary.
+- Write a program to find the length of a dictionary.
+- Write a program to merge two dictionaries.
+- Write a program to find the sum of all values in a dictionary.
+- Write a program to sort a dictionary by its keys.
+- Write a program to sort a dictionary by its values.
+- Write a program to find the key with the maximum value in a dictionary.
 
-5. Find the critical t-value from [T-Table](https://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf) using significance ($\alpha$) level
-6. if t-statistic < critical t-value, we fail to reject Null Hypothesis
+9. Sets
+- Write a program to create a set and add elements to it.
+- Write a program to remove an element from a set.
+- Write a program to find the union of two sets.
+- Write a program to find the intersection of two sets.
+- Write a program to find the difference between two sets.
+- Write a program to check if a set is a subset of another set.
+- Write a program to check if two sets are disjoint.
+- Write a program to find the length of a set.
+- Write a program to clear all elements from a set.
+- Write a program to convert a list to a set.
 
-Sample Data 
-- Brand A: 49.5, 50.1, 49.8,50.3, 50
-- Brand B: 50.4, 49.9, 50.6, 50.2, 50.1
-
-### Paired Sample T-test
-- Compares means from the same group at different times (before/after)
-
-## F-Distribution
-
-## Reference 
-1 . [Data Lab Tutorial](https://datatab.net/tutorial/hypothesis-testing)
+10. Basics of OOPs
+- Write a class to represent a Rectangle with methods to calculate area and perimeter.
+- Write a class to represent a Circle with methods to calculate area and circumference.
+- Write a class to represent a Student with attributes like name, roll number, and marks.
+- Write a class to represent a BankAccount with methods to deposit and withdraw money.
+- Write a class to represent a Car with attributes like make, model, and year.
+- Write a class to represent a Book with attributes like title, author, and price.
+- Write a class to represent a Person with attributes like name and age, and a method to display details.
+- Write a class to represent a Bank with methods to add accounts and display total balance.
+- Write a class to represent a Shape with a method to calculate area, and create subclasses for Square and Circle.     

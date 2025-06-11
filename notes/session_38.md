@@ -1,4 +1,3 @@
-# Feature reduction
-# Dimensionality reduction
-# DBScan
-# PCA
+# Soft Skills: Teamwork and Collaboration
+
+
