@@ -19,7 +19,7 @@ _Reference repository containing a list of topics across various sessions from t
 | 13 | Python Case Study | [session_13.md](notes/session_13.md) | | |
 | 14 | Version Control | [session_14.md](notes/session_14.md) | | |
 | 15 | Math Notations and Descriptive Statistics  | [session_15.md](notes/session_15.md) | | |
-| 16 | Soft Skills: Communication Skills | | | |
+| 16 | Soft Skills: Communication Skills | [session_16.md](notes/session_16.md)| | |
 | 17 | Inferential Statistics | [session_17.md](notes/session_17.md) | [Plotting.ipynb](notebooks/Plotting.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/Plotting.ipynb) |
 | 18 | Statistics Case Study | [session_18.md](notes/session_18.md) | | |
 | 19 | Linear Algebra for Data Science | [session_19.md](notes/session_19.md) | | |
@@ -30,8 +30,8 @@ _Reference repository containing a list of topics across various sessions from t
 | 24 | Case Study on Numpy and Pandas    | [session_24.md](notes/session_24.md) | | | 
 | 25 | Data Engineering with Python      | [session_25.md](notes/session_25.md) | | |
 | 26 | SQL Basics and CRUD               | [session_26.md](notes/session_26.md) | | |
-| 27 | Soft Skills: Emotional Intelligence | | | |
-| 28 | SQL Join, Groupby and Window Function | | | |
+| 27 | Soft Skills: Emotional Intelligence | [session_27.md](notes/session_27.md) | | |
+| 28 | SQL Join, Groupby and Window Function | [session_28.md](notes/session_28.md) | | |
 | 29 | SQL Case Study | [session_29.md](notes/session_29.md) | | |
 | 30 | Read Data From Various Sources| [session_30.md](notes/session_30.md)        |                   |
 | 31 | Data Aquisition Case Study        | [session_31.md](notes/session_31.md)        |    
@@ -41,9 +41,9 @@ _Reference repository containing a list of topics across various sessions from t
 | 35 | Data Visualization and Feature Engineering | [session_35.md](notes/session_35.md)        |  
 | 36 | Tableau Dashboard Design          | [session_35.md](notes/session_36.md)        |  
 | 37 | Tableau Case Study                | [session_37.md](notes/session_37.md)        |      
-| 38 | Soft Skills: Teamwork and Collaboration | | | |
-| 39 | Handling Missing Values | | | |
-| 40 | Encoding, Scaling, Normalization, Corrleation  | | | |
+| 38 | Soft Skills: Teamwork and Collaboration | [session_38.md](notes/session_38.md) | | |
+| 39 | Handling Missing Values | [session_39.md](notes/session_39.md) | | |
+| 40 | Encoding, Scaling, Normalization, Corrleation  | [session_40.md](notes/session_40.md) | | |
 | 41 | Case Study Data Preprocessing | [session_41.md](notes/session_41.md) | | |
 | 42 | Linear Regression | [session_42.md](notes/session_42.md) | | |
 | 43 | LR NB KNN Hyperparameters | [session_43.md](notes/session_43.md) | | |
@@ -51,18 +51,18 @@ _Reference repository containing a list of topics across various sessions from t
 | 45 | Case Study on Supervised Learning | [session_45.md](notes/session_45.md) | | | 
 | 46 | Bagging Boosting Stacking Cascading | [session_46.md](notes/session_46.md) | | | 
 | 47 | K- MEans Agglomerative Clustering | [session_47.md](notes/session_47.md) | | |
-| 48 | Case Study on Unsupervised Learning | [session_45.md](notes/session_48.md) | | |  
-| 49 | Soft Skills: Problem Solving and Decision Making | | | |
-| 50 | Feature reduction vs Dimensionality reduction, DBScan,PCA | | | |
-| 51 | Introduction to HTML and CSS | | | |
-| 52 | Introduction to Flask | | | |
-| 53 | Fast API and Streamlit | | | |
-| 54 | Structing Data Science Projects | | | |
-| 55 | Cloud Fundamentals Devops and MLOps | | | |
-| 56 | Deep Learning | | | |
-| 57 | Prompt Engineering and GPT | | | |
-| 58 | Big Data Eco-System | | | |
-| 59 | Case Study | | | |
-| 60 | Soft Skills: Personal Branding and Professional Etiquette | | | |
-| 61 | Interview Skills | | | |
-| 62 | Mock Interview | | | |
+| 48 | Case Study on Unsupervised Learning | [session_48.md](notes/session_48.md) | | |  
+| 49 | Soft Skills: Problem Solving and Decision Making | [session_49.md](notes/session_49.md )| | |
+| 50 | Feature reduction vs Dimensionality reduction, DBScan,PCA | [session_50.md](notes/session_50.md) | | |
+| 51 | Introduction to HTML and CSS | [session_51.md](notes/session_51.md) | | |
+| 52 | Introduction to Flask | [session_52.md](notes/session_52.md) | | |
+| 53 | Fast API and Streamlit | [session_53.md](notes/session_53.md) | | |
+| 54 | Structing Data Science Projects | [session_54.md](notes/session_54.md) | | |
+| 55 | Cloud Fundamentals Devops and MLOps | [session_55.md](notes/session_55.md) | | |
+| 56 | Deep Learning | [session_56.md](notes/session_56.md) | | |
+| 57 | Prompt Engineering and GPT | [session_57.md](notes/session_57.md) | | |
+| 58 | Big Data Eco-System | [session_58.md](notes/session_58.md) | | |
+| 59 | Case Study | [session_59.md](notes/session_59.md) | | |
+| 60 | Soft Skills: Personal Branding and Professional Etiquette | [session_60.md](notes/session_60.md) | | |
+| 61 | Interview Skills | [session_61.md](notes/session_61.md)| | |
+| 62 | Mock Interview | [session_62.md](notes/session_62.md) | | |
