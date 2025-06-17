@@ -33,7 +33,7 @@ _Reference repository containing a list of topics across various sessions from t
 | 27 | Soft Skills: Emotional Intelligence | [session_27.md](notes/session_27.md) | | |
 | 28 | SQL Join, Groupby and Window Function | [session_28.md](notes/session_28.md) | | |
 | 29 | SQL Case Study | [session_29.md](notes/session_29.md) | | |
-| 30 | Read Data From Various Sources| [session_30.md](notes/session_30.md)        |                   |
+| 30 | Read Data From Various Sources| [session_30.md](notes/session_30.md) |[Image_Processing.ipynb](notebooks/Image_Processing.ipynb) |
 | 31 | Data Aquisition Case Study        | [session_31.md](notes/session_31.md)        |    
 | 32 | Data Ingenstion Techniques        | [session_32.md](notes/session_32.md)        |   
 | 33 | ETL Vs. ELT                       | [session_33.md](notes/session_33.md)        |   
@@ -44,13 +44,13 @@ _Reference repository containing a list of topics across various sessions from t
 | 38 | Soft Skills: Teamwork and Collaboration | [session_38.md](notes/session_38.md) | | |
 | 39 | Handling Missing Values | [session_39.md](notes/session_39.md) | | |
 | 40 | Encoding, Scaling, Normalization, Corrleation  | [session_40.md](notes/session_40.md) | | |
-| 41 | Case Study Data Preprocessing | [session_41.md](notes/session_41.md) | | |
+| 41 | Case Study Data Preprocessing | [session_41.md](notes/session_41.md) | [Data_Preprocessing_2.ipynb](notebooks/Data_Preprocessing_2.ipynb) | |
 | 42 | Linear Regression | [session_42.md](notes/session_42.md) | | |
-| 43 | LR NB KNN Hyperparameters | [session_43.md](notes/session_43.md) | | |
+| 43 | LR NB KNN Hyperparameters | [session_43.md](notes/session_43.md) | [Bias_Variance.ipynb](notebooks/Bais_Variance.ipynb) | |
 | 44 | SVM DT RF | [session_44.md](notes/session_44.md) | | | 
 | 45 | Case Study on Supervised Learning | [session_45.md](notes/session_45.md) | | | 
 | 46 | Bagging Boosting Stacking Cascading | [session_46.md](notes/session_46.md) | [Bagging_Boosting.ipynb](notebooks/Bagging_Boosting.ipynb) | | | 
-| 47 | K- MEans Agglomerative Clustering | [session_47.md](notes/session_47.md) | | |
+| 47 | K-Means Agglomerative Clustering | [session_47.md](notes/session_47.md)| [KMeans_Scratch.ipynb](notebooks/K_Mean_Clustering_from_scratch.ipynb)| |
 | 48 | Case Study on Unsupervised Learning | [session_48.md](notes/session_48.md) | | |  
 | 49 | Soft Skills: Problem Solving and Decision Making | [session_49.md](notes/session_49.md )| | |
 | 50 | Feature reduction vs Dimensionality reduction, DBScan,PCA | [session_50.md](notes/session_50.md) | | |
