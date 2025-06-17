@@ -11,16 +11,16 @@ _Reference repository containing a list of topics across various sessions from t
 | 5 | Software Development Life Cycle | [session_05.md](notes/session_05.md) | | |               
 | 6 | Demystifying Terms: DS, ML, AI  | [session_06.md](notes/session_06.md) | | |                                                                           
 | 7 | Setting UP | [session_07.md](notes/session_07.md) | | |               
-| 8 | Python : Data Types and Operators | [session_08.md](notes/session_08.md) | [Python_Datatypes_Operators.ipynb](notebooks/Python_Datatypes_Operators.ipynb), [iterative_statements_functions.ipynb](notebooks/iterative_statements_functions.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/Python_Datatypes_Operators.ipynb), [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/iterative_statements_functions.ipynb) | | |
+| 8 | Python : Data Types and Operators | [session_08.md](notes/session_08.md) | [Python_Datatypes_Operators.ipynb](notebooks/Python_Datatypes_Operators.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/Python_Datatypes_Operators.ipynb), [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/iterative_statements_functions.ipynb) | | |
 | 9 | Control Flow | [session_09.md](notes/session_09.md) |  | |
-| 10 | Loops & Functions in Python | [session_10.md](notes/session_08.md) | [basics_of_functions.ipynb](notebooks/basics_of_functions.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/basics_of_functions.ipynb) |
+| 10 | Loops & Functions in Python | [session_10.md](notes/session_08.md) | [basics_of_functions.ipynb](notebooks/basics_of_functions.ipynb), [iterative_statements_functions.ipynb](notebooks/iterative_statements_functions.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/basics_of_functions.ipynb) |
 | 11 | Object Oriented Programming (OOP) | [session_11.md](notes/session_11.md) | [OOPs_basics.ipynb](notebooks/OOPs_basics.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/OOPs_basics.ipynb) |
-| 12 | Coding Best Practices  | [session_12.md](notes/session_12.md) | [OOPs_basics.ipynb](notebooks/OOPs_basics.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/OOPs_basics.ipynb) |
+| 12 | Coding Best Practices  | [session_12.md](notes/session_12.md) | | |
 | 13 | Python Case Study | [session_13.md](notes/session_13.md) | | |
 | 14 | Version Control | [session_14.md](notes/session_14.md) | | |
 | 15 | Math Notations and Descriptive Statistics  | [session_15.md](notes/session_15.md) | | |
 | 16 | Soft Skills: Communication Skills | [session_16.md](notes/session_16.md)| | |
-| 17 | Inferential Statistics | [session_17.md](notes/session_17.md) | [Plotting.ipynb](notebooks/Plotting.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/Plotting.ipynb) |
+| 17 | Inferential Statistics | [session_17.md](notes/session_17.md) | |
 | 18 | Statistics Case Study | [session_18.md](notes/session_18.md) | | |
 | 19 | Linear Algebra for Data Science | [session_19.md](notes/session_19.md) | | |
 | 20 | Probability for Data Science | [session_20.md](notes/session_20.md) | | |
@@ -38,7 +38,7 @@ _Reference repository containing a list of topics across various sessions from t
 | 32 | Data Ingenstion Techniques        | [session_32.md](notes/session_32.md)        |   
 | 33 | ETL Vs. ELT                       | [session_33.md](notes/session_33.md)        |   
 | 34 | Data Warehousing Concepts         | [session_34.md](notes/session_34.md)        |   
-| 35 | Data Visualization and Feature Engineering | [session_35.md](notes/session_35.md)        |  
+| 35 | Data Visualization and Feature Engineering | [session_35.md](notes/session_35.md)        | [Plotting.ipynb](notebooks/Plotting.ipynb) | [Open in Colab](https://colab.research.google.com/github/cksajil/DSAIRPFeb25/blob/main/notebooks/Plotting.ipynb) |
 | 36 | Tableau Dashboard Design          | [session_35.md](notes/session_36.md)        |  
 | 37 | Tableau Case Study                | [session_37.md](notes/session_37.md)        |      
 | 38 | Soft Skills: Teamwork and Collaboration | [session_38.md](notes/session_38.md) | | |
