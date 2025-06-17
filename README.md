@@ -49,7 +49,7 @@ _Reference repository containing a list of topics across various sessions from t
 | 43 | LR NB KNN Hyperparameters | [session_43.md](notes/session_43.md) | | |
 | 44 | SVM DT RF | [session_44.md](notes/session_44.md) | | | 
 | 45 | Case Study on Supervised Learning | [session_45.md](notes/session_45.md) | | | 
-| 46 | Bagging Boosting Stacking Cascading | [session_46.md](notes/session_46.md) | | | 
+| 46 | Bagging Boosting Stacking Cascading | [session_46.md](notes/session_46.md) | [Bagging_Boosting.ipynb](notebooks/Bagging_Boosting.ipynb) | | | 
 | 47 | K- MEans Agglomerative Clustering | [session_47.md](notes/session_47.md) | | |
 | 48 | Case Study on Unsupervised Learning | [session_48.md](notes/session_48.md) | | |  
 | 49 | Soft Skills: Problem Solving and Decision Making | [session_49.md](notes/session_49.md )| | |
