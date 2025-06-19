@@ -1,5 +1,5 @@
 # Coding Best Practices
-# 🐍 Python Coding Best Practices:
+# Python Coding Best Practices:
 
 ## Overview
 
