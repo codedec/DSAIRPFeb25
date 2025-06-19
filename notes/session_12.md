@@ -28,7 +28,8 @@ def add(a: int, b: int) -> int:
 ```
 
 ### File Paths using OS Library
-```
+
+```python
 # Bad
 file_path = "C:\\Downloads\\data.txt"
 
