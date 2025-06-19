@@ -1,5 +1,5 @@
 # Coding Best Practices
-# 🐍 Python Coding Best Practices: 4-Hour Tutorial
+# 🐍 Python Coding Best Practices:
 
 ## Overview
 
@@ -7,7 +7,7 @@
 
 
 
-## 🧱 1. Code Structure and Formatting (30 mins)
+## 🧱 1. Code Structure and Formatting
 
 ### ✅ Follow PEP8
 
@@ -36,7 +36,7 @@ def add(a: int, b: int) -> int:
 
 ---
 
-## 🧩 2. Functions and Modular Code (1 hour)
+## 🧩 2. Functions and Modular Code
 
 ### ✨ Best Practices
 
@@ -75,7 +75,7 @@ myproject/
 
 ---
 
-## 3. Writing Pythonic Code (30 mins)
+## 3. Writing Pythonic Code
 
 ### 💡 Use Idiomatic Python
 
