@@ -28,6 +28,14 @@ def add(a: int, b: int) -> int:
 ```
 
 ### File Paths using OS Library
+```
+# Bad
+file_path = "C:\\Downloads\\data.txt"
+
+# Good
+from os.path import join
+file_path = join("C", "Downloads", "data.txt")
+```
 
 ### 🧰 Tools
 
