@@ -94,6 +94,10 @@ def predict(data: ModelInput):
 ### How to run
 ```bash
 streamlit run app.y
+
+# OR
+python -m streamlit run app.py
+
 ```
 
 ### Example 1 : Scikit-Learn Model Deployment
