@@ -1,13 +1,15 @@
 # Fast API and Streamlit
 
-## Installing Requirements
+## Fast API
+
+### Installing Requirements
 ```bash
 # Install requirements
 python -m pip install --upgrade pip
 pip install "fastapi[standard]"
 ```
 
-## Example 1: Simple String Message
+### Example 1: Simple String Message
 ```python
 from fastapi import FastAPI
 
@@ -19,20 +21,20 @@ async def root():
     return {"message": "Hello World"}
 ```
 
-## Running Fast API
+### Running Fast API
 ```bash
 fastapi dev main.py
 ```
 
-## Accessing Server
+### Accessing Server
 http://127.0.0.1:8000/
 
-## Accessing Documentation
+### Accessing Documentation
 http://127.0.0.1:8000/docs
 
 
 
-## Example 2: Simple JSON
+### Example 2: Simple JSON
 ```python
 from fastapi import FastAPI
 from typing import Union
@@ -45,7 +47,7 @@ def read_item(item_id: int, q: Union[str, None] = None):
     return {"item_id": item_id, "q": q}
 ```
 
-## Example 3: String Uppercase Conversion
+### Example 3: String Uppercase Conversion
 ```python
 from fastapi import FastAPI
 from typing import Union
@@ -58,7 +60,7 @@ def to_upper(text: str):
     return {"original": text, "upper": text.upper()}
 ```
 
-## Example 4: Scikit-learn trained model serving
+### Example 4: Scikit-learn trained model serving
 ```python
 from fastapi import FastAPI
 from pydantic import BaseModel
@@ -88,7 +90,34 @@ def predict(data: ModelInput):
     return {"prediction": prediction}
 ```
 
+## Streamlit
+### How to run
+```bash
+streamlit run app.y
+```
+
+### Example 1 : Scikit-Learn Model Deployment
+```python
+import pickle
+import streamlit as st
+from os import path
+import numpy as np
 
 
+st.title("Flower Classification App")
+
+file_name = "lr_model.pkl"
+with open(path.join("model",file_name) , 'rb') as f:
+    lr_model = pickle.load(f)
+
+sl = st.number_input("Insert a sepel length")
+sw = st.number_input("Insert a sepel width")
+pl = st.number_input("Insert a petal length")
+pw = st.number_input("Insert a petal width")
+
+if st.button("Predict"):
+    pred = lr_model.predict(np.array([[sl, sw, pl, pw]]))
+    st.write("The flower is :", pred[0])
+```
 
 
