@@ -2,6 +2,8 @@
 ## Why do we need version control?
 - Tracking changes
 - Team Collaboration
+- Opportunities
+    - Open Source Experience
 
 ## Git
 - Initializing Repository
