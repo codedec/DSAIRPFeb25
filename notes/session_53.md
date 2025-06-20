@@ -24,10 +24,10 @@ async def root():
 fastapi dev main.py
 ```
 
-## Server
+## Accessing Server
 http://127.0.0.1:8000/
 
-## Documentation
+## Accessing Documentation
 http://127.0.0.1:8000/docs
 
 
@@ -42,7 +42,6 @@ app = FastAPI()
 
 @app.get("/items/{item_id}")
 def read_item(item_id: int, q: Union[str, None] = None):
-
     return {"item_id": item_id, "q": q}
 ```
 
@@ -87,7 +86,6 @@ def predict(data: ModelInput):
     features = np.array([[data.feature1, data.feature2, data.feature3, data.feature4]])
     prediction = model.predict(features)[0]
     return {"prediction": prediction}
-
 ```
 
 
