@@ -83,6 +83,10 @@
 - is not
 
 # Standard Input Output Functions
+
+[![Python Standard I/O](https://img.youtube.com/vi/iFZlU-ZWuzg/0.jpg)](https://youtu.be/v=iFZlU-ZWuzg)
+
+
 ```python
 name = input("Enter your name: ")
 print(name)

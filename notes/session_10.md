@@ -32,8 +32,9 @@ while i<=10:
 ### Pass Keyword
 
 # Functions in Python
+[![Python Intro to Functions](https://img.youtube.com/vi/a3tlV9LZ6aQ/0.jpg)](https://youtu.be/v=a3tlV9LZ6aQ)
 
-## Built-in Functins
+## Built-in Functoins
 
 ## Custom Functions
 ```python

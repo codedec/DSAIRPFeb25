@@ -1,3 +1,7 @@
+# Mathematics for Data Sciencd and Machine Learning
+[![Math4DSML](https://img.youtube.com/vi/R3Lf-MyQ9Cg/0.jpg)](https://www.youtube.com/watch?v=R3Lf-MyQ9Cg)
+
+
 # Math Notations and Descriptive Statistics
 # Descriptive Statistics
 
