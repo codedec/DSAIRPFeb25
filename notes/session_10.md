@@ -42,6 +42,11 @@ def greet():
 greet()
 ```
 
+
+### Function arguments
+
+[![Python Continue-break](https://img.youtube.com/vi/DHfuVRoTC9o/0.jpg)](https://youtu.be/v=DHfuVRoTC9o)
+
 ```python
 def add(a,b):
   c = a+b
@@ -49,7 +54,7 @@ def add(a,b):
 z = add(2,4)
 print(z)
 ```
-### Function arguments
+
 ### Default arguments
 ```python
 def add(a,b=10):
@@ -59,6 +64,9 @@ def add(a,b=10):
 z = add(2)
 print(z)
 ```
+[![Python Default Arguments](https://img.youtube.com/vi/96JrQ1cZsSQ/0.jpg)](https://youtu.be/v=96JrQ1cZsSQ)
+
+
 ### kwargs
 
 ### Function return values
