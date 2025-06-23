@@ -1,6 +1,11 @@
 # Fast API and Streamlit
 
 ## Fast API
+[![FAST API Part 1](https://img.youtube.com/vi/aAnQj2jfufk/0.jpg)](https://www.youtube.com/watch?v=aAnQj2jfufk)
+
+
+[![FAST API Part 2](https://img.youtube.com/vi/xpasTBQ5EXc/0.jpg)](https://www.youtube.com/watch?v=xpasTBQ5EXc)
+
 
 ### Installing Requirements
 ```bash
@@ -91,6 +96,14 @@ def predict(data: ModelInput):
 ```
 
 ## Streamlit
+
+[![Streamlit Part 1](https://img.youtube.com/vi/bWasfCZHo-g/0.jpg)](https://www.youtube.com/watch?v=bWasfCZHo-g)
+
+[![Streamlit Part 2](https://img.youtube.com/vi/ss6KOS7fI64/0.jpg)](https://www.youtube.com/watch?v=ss6KOS7fI64)
+
+[![Streamlit Part 3](https://img.youtube.com/vi/gOvNATdGFbo/0.jpg)](https://www.youtube.com/watch?v=gOvNATdGFbo)
+
+
 ### How to run
 ```bash
 streamlit run app.y
