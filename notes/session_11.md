@@ -13,6 +13,8 @@
 
 ### Inheritance
 
+[![Python Class Inheritance](https://img.youtube.com/vi/oWwdVik7qU0/0.jpg)](https://www.youtube.com/watch?v=oWwdVik7qU0)
+
 
 # Python Practice Problems
 
