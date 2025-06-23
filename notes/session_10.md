@@ -83,6 +83,8 @@ print(tsum, tdiff, tmul, tdiv)
 # Basic Library Usage
 ## Keyword library
 
+[![Python Library](https://img.youtube.com/vi/TA3n-txytck/0.jpg)](https://youtu.be/TA3n-txytck)
+
 # Creating and Using Custom Modules
 
 # File Handling
