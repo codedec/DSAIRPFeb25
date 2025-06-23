@@ -1,3 +1,8 @@
+# Command Line Basics
+
+[![Command Line Basics](https://img.youtube.com/vi/B5ISXHnYVCg/0.jpg)](https://www.youtube.com/watch?v=B5ISXHnYVCg)
+
+
 # Version Control
 ## Why do we need version control?
 - Tracking changes

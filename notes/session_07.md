@@ -34,6 +34,10 @@
     - Flake8 (Microsoft)
 
 ## Visual Studio Walkthrough
+
+[![Quick Intro to VS Code](https://img.youtube.com/vi/cds3AVwB_lI/0.jpg)](https://www.youtube.com/watch?v=cds3AVwB_lI)
+
+
 [![VS Code Walkthrough](https://img.youtube.com/vi/ZCn9dgRLQ_8/0.jpg)](https://www.youtube.com/watch?v=ZCn9dgRLQ_8)
 
 

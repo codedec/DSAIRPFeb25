@@ -2,6 +2,10 @@
 [![Math4DSML](https://img.youtube.com/vi/R3Lf-MyQ9Cg/0.jpg)](https://www.youtube.com/watch?v=R3Lf-MyQ9Cg)
 
 
+# Two Areas of Statistics
+[![Two areas of statistics](https://img.youtube.com/vi/FePF2YIdntM/0.jpg)](https://www.youtube.com/watch?v=FePF2YIdntM)
+
+
 # Math Notations and Descriptive Statistics
 # Descriptive Statistics
 
