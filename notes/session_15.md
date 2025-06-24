@@ -35,6 +35,9 @@
  - z-score (used for standardization)
  - Confidence Interval (CI)
 
+## Correlation Vs. Causation
+[![corr_cause](https://img.youtube.com/vi/gh1MV72Otm0/0.jpg)](https://www.youtube.com/watch?v=gh1MV72Otm0)
+
 ## Correlation coefficient (-1 to 1)
  - Pearson correlation coefficient
  - Sphearman's rank correlation
