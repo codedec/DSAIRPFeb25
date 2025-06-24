@@ -9,6 +9,10 @@
 - Can be 2D, 3D, ..., ND
 - Notation basics
 - Row vector, column vector
+
+[![row_col_vectors](https://img.youtube.com/vi/JAdl83M-e_s/0.jpg)](https://www.youtube.com/watch?v=JAdl83M-e_s)
+
+
 - Basis of vector
     - In terms of fundamental components: linear independance
     - Changing of basis
