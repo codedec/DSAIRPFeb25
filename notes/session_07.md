@@ -1,7 +1,7 @@
 # Data Science Tools
 [![Data Science Tools](https://img.youtube.com/vi/_fuAooCJTpA/0.jpg)](https://youtu.be/_fuAooCJTpA)
 # Walkthroughs
-1. [Google Colab](https://colab.research.google.com/)
+## [Google Colab](https://colab.research.google.com/)
 
  - Basic file operations
  - Jupyter Notebook format
@@ -22,7 +22,7 @@
  ## Google Colab Tutorial 2
  [![Google Colab Tutorial 2](https://img.youtube.com/vi/bh820H9MD3k/0.jpg)](https://www.youtube.com/watch?v=bh820H9MD3k)
 
-2. [Kaggle](https://www.kaggle.com/)
+## [Kaggle](https://www.kaggle.com/)
 - Basic file operations
 - Code version control
 - GPU access policy
