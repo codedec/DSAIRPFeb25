@@ -23,6 +23,8 @@
  [![Google Colab Tutorial 2](https://img.youtube.com/vi/bh820H9MD3k/0.jpg)](https://www.youtube.com/watch?v=bh820H9MD3k)
 
 ## [Kaggle](https://www.kaggle.com/)
+ [![Kaggle Tutorial](https://img.youtube.com/vi/IgihTAagHHk/0.jpg)](https://www.youtube.com/watch?v=IgihTAagHHk)
+
 - Basic file operations
 - Code version control
 - GPU access policy
