@@ -1,6 +1,6 @@
 # 📘 DSA IRP February 2025
 
-_Reference repository containing a list of topics across various sessions from the Data Science and Analytics Industry Readiness Program 2025 course at ICT Academy of Kerala._
+Reference repository containing a list of topics across various sessions from the Data Science and Analytics Industry Readiness Program 2025 course at ICT Academy of Kerala._
 
 | Session No. | Session Nam  | Notes |Notebook | Open in Colab |
 |-------------|-----------------------------------------------------|------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
