@@ -22,6 +22,13 @@
  ## Google Colab Tutorial 2
  [![Google Colab Tutorial 2](https://img.youtube.com/vi/bh820H9MD3k/0.jpg)](https://www.youtube.com/watch?v=bh820H9MD3k)
 
+2. [Kaggle](https://www.kaggle.com/)
+- Basic file operations
+- Code version control
+- GPU access policy
+- Data version controlling
+- Pros and Cons compared to Google Colab
+
 ## Markdown File Format
  [![markdown](https://img.youtube.com/vi/i5X5VYzEJCo/0.jpg)](https://www.youtube.com/watch?v=i5X5VYzEJCo)
 
